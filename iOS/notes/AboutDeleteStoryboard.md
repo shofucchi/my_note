@@ -9,6 +9,7 @@ Xcode 12.5(12E262)
 1. Main.storyboard を削除。
 2. `ProjectFile` > `TARGETS` > `Main interface` から Main を空にする
 3. `Info.plist` > `Application Scene Manifest` > `Scene Configuration` > `Application Session Role` > `Storyboard name` から Main を削除
+
    ![](../assets/about_delete_storyboard_002.png)
    ![](../assets/about_delete_storyboard_003.png)
 
