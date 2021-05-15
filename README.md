@@ -6,6 +6,7 @@
 ## iOS
 
 - [Deployment Target 12.x で Main.storyboard を削除する。](https://github.com/fucchi-senpai/my_note/blob/main/iOS/notes/AboutDeleteStoryboard.md)
+- [Mint セットアップ方法](https://github.com/fucchi-senpai/my_note/blob/main/iOS/notes/HowToSetUpMint.md)
 
 ## Flutter / Dart
 
